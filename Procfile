@@ -1,1 +1,2 @@
-clock: python 
+clock: python bot.py
+
