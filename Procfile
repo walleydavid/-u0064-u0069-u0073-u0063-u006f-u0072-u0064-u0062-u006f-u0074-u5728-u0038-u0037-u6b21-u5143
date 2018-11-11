@@ -1,2 +1,1 @@
-clock: python bot.py
-
+clock: python musicbot\bot.py
