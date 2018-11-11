@@ -1,1 +1,1 @@
-clock: python [Python file name]
+clock: python 
