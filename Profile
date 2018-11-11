@@ -1,1 +1,1 @@
-clock: python [run.py]
+clock: python [Python file name]
