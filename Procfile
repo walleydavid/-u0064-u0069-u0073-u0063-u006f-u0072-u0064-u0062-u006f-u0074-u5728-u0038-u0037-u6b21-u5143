@@ -1,1 +1,1 @@
-clock: python run.bat
+clock: python 
